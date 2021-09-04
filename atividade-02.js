@@ -8,7 +8,7 @@ Operadores aritméticos
 *  Multiplicação
 
 %  Módulo(pega o resto da divisão e não o resultado)
-** Exponenciação 9um número elevado a outro)
+** Exponenciação um número elevado a outro)
 
 Operadores relacionais
 
