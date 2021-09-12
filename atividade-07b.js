@@ -1,6 +1,6 @@
 // Objetivo
-// Estrutura de decisão if 
-// Estrutura de cesião shich
+// Estrutura de decisão If 
+// Estrutura de cesião Switch
 
 // var numero = prompt("Digite um número entre 1 e 3", "Digite aqui")
 // switch(numero){

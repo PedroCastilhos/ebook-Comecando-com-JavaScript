@@ -1,10 +1,9 @@
-<!--
-  Objetivos 
-  Laço de repetição (while)
-  Operadores de incremento e decremento
- -->
+// Objetivos 
+// Laço de repetição While
+// Operadores de incremento e decremento
 
-<script>
+
+
   var contador = 0
   var contador2 = 10
 
@@ -23,4 +22,4 @@
 
     contador2--
   }
-</script>
+

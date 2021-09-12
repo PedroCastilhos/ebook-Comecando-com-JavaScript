@@ -1,5 +1,5 @@
-// Objetivo
-// Estruturação de decisão switch (caso)
+// Objetivo:
+// Estruturação de decisão Switch 
 
 var nome = prompt("Qual é o seu nome?", "Digite aqui")
 var idade = prompt("Você tem quantos anos?", "Digite aqui")

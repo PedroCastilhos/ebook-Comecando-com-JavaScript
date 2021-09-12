@@ -1,5 +1,5 @@
-// Objetivo
-// Estruturação de decisão switch (caso)
+// Objetivo:
+// Estruturação de decisão Switch 
 
 var continuar = confirm("Deseja salvar o arquivo")
 

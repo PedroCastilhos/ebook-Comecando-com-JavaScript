@@ -1,5 +1,5 @@
-// Objetivo
-// Estrutura de decisão switch(caso)
+// Objetivo:
+// Estrutura de decisão Switch
 
 var numero1 = prompt("Informe o primeiro número", "Digite aqui");
 var numero2 = prompt("Informe o segundo número", "Digite aqui")

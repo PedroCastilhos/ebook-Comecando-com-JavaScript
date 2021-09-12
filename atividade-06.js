@@ -1,5 +1,5 @@
 // Objetivo:
-// Estrutura de decisão if (se)
+// Estrutura de decisão If 
 
 var cargaHorariaSemanal = 44
 var saldoHoras = 0

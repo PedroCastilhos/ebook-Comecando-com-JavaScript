@@ -1,11 +1,7 @@
-<!--  
-  Objetivo:
-  Utilizando Array
-  Métodos de Array
- -->
-
-<script>
-
+// Objetivo:
+// Utilizando Array
+// Métodos de Array
+ 
     var carros = ["Uno", "Gol", "Celta", "Civic", "Palio", "Siena"];
     console.dir(carros);
 
@@ -19,5 +15,3 @@
 
     console.dir(carros);
 
-
-</script>

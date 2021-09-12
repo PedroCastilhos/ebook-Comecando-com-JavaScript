@@ -1,3 +1,6 @@
+// Objetivo:
+// Estrutura de decisão If
+
 var nome = prompt("Informe o nome do candidato", "Digite aqui")
 var idade = prompt("Informe a idade do candidato", "Digite aqui")
 

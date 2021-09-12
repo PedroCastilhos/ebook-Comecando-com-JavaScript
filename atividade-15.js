@@ -1,8 +1,8 @@
-<!-- Objetivo
- Utilizando Array
- Laço de repetição(while) -->
+// Objetivo
+// Utilizando Array
+// Laço de repetição While 
 
-<script>
+
   // const students = ['Maria', 'João', 'Fernando', 'Leonardo', 'Júlia']
   // let counter = 0
 
@@ -28,4 +28,4 @@
 
   console.log(carros)
 
-</script>
+

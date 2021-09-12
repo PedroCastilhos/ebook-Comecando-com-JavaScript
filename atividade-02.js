@@ -1,3 +1,6 @@
+// Objetivo:
+// Trabalhar com operadores matemáticos em JavaScript
+
 /*
 
 Operadores aritméticos

@@ -1,3 +1,7 @@
+// Objetivo:
+// Declarar variáveis
+// Conversão de valores
+
 var vendedor,jan, fev, mar, media;
 vendedor = prompt("Informe o nome do vendedor ", "Digite aqui ")
 jan = prompt("Informe o valor das vendas de Janeiro ", "Digite aqui ")

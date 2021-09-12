@@ -1,11 +1,7 @@
-<!-- 
-  Objetivo:
-  Array
-  Laço de Repetição
-  Estrutura de decisão
- -->
-
-<script>
+//  Objetivo:
+//  Array
+//  Laço de Repetição
+//  Estrutura de decisão
 
   var continuar = "S";
   var animalExibir;
@@ -53,4 +49,3 @@
   console.clear()
   console.log("Obrigado")
 
-</script>

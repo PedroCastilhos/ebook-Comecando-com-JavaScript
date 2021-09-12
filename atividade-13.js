@@ -1,9 +1,8 @@
-<!-- 
-Objetivo:
-Laço de repetição (while)
- -->
+// Objetivo:
+// Laço de repetição While
 
-<script>
+
+
 
   var quantidadeDeNumeros = 0
   var novoNumero = "S"
@@ -22,4 +21,3 @@ Laço de repetição (while)
 
   console.log(`A media dos numeros informador é ${media}`)
 
-</script>

@@ -8,6 +8,10 @@ var horaAtual = dataCompleta.getHours();
 dataCompleta.getDay(); // dia da semana em número 
 dataCompleta.getDate(); // dia do mês 
 dataCompleta.getMonth(); 
+//Objetivo:
+// Estrutura de decisão If
+// Objeto Date
+
 dataCompleta.getFullYear(); 
 dataCompleta.getHours(); 
 dataCompleta.getMinutes(); 

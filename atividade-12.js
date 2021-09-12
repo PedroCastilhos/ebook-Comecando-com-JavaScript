@@ -1,7 +1,5 @@
-<!-- Objetivo 
-Laço de repetição -->
-
-<script>
+// Objetivo 
+// Laço de repetição While
 
 var nome, nota1, nota2, nota3, nota4, media;
 
@@ -17,4 +15,3 @@ while(resposta == true){
     alert("O(A) estudante " + nome + " obteve a média " + media)
     resposta = confirm ("Calcular a média de outro aluno?")
 }
-</script>
